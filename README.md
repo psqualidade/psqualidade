@@ -2,9 +2,7 @@
 
 ### Dados, processos e tecnologia conectados para transformar informação em decisão.
 
-A **PS Qualidade** desenvolve soluções voltadas à gestão, análise de dados, automação e melhoria de processos, conectando visão de negócio e tecnologia.
-
-Nosso foco é transformar dados operacionais em informações claras, estruturadas e úteis para tomada de decisão.
+A **PS Qualidade** desenvolve soluções em **Business Intelligence, Power BI, Azure DevOps, ALM e automação de processos**, conectando negócio e tecnologia para gerar informação clara e apoiar decisões.
 
 ---
 
@@ -25,7 +23,7 @@ Desenvolvimento de dashboards e soluções analíticas com foco em gestão, acom
 
 ### Azure DevOps & ALM
 
-Estruturação do Azure DevOps como plataforma de gestão do ciclo de vida de aplicações e projetos.
+Estruturação do Azure DevOps como plataforma de gestão do ciclo de vida de aplicações, projetos, demandas e testes.
 
 - Boards
 - Backlogs
@@ -51,7 +49,7 @@ Criação de soluções para digitalização e automação de processos.
 
 ## Projetos em destaque
 
-### Indicadores de Aprendizagem
+### [Indicadores de Aprendizagem](https://github.com/psqualidade/powerbi-indicadores-aprendizagem)
 
 Dashboard desenvolvido para acompanhar a evolução da aprendizagem e transformar indicadores educacionais em uma visão simples, visual e gerencial.
 
@@ -65,7 +63,7 @@ Solução analítica para acompanhamento de capacidade, demandas, chamados, ativ
 
 **Tecnologias:** Power BI, DAX, Power Query, HTML Content e modelagem de dados.
 
-> Projeto mantido em repositório privado por conter arquitetura e informações de ambiente corporativo.
+> Repositório privado por conter arquitetura e informações de ambiente corporativo.
 
 ---
 
@@ -75,13 +73,13 @@ Cockpit operacional para acompanhamento da programação de manutenção, permit
 
 **Tecnologias:** Power BI, SAP PM / S4HANA, DAX, Power Query e Analytics.
 
-> Projeto mantido em repositório privado por conter arquitetura e informações de ambiente corporativo.
+> Repositório privado por conter arquitetura e informações de ambiente corporativo.
 
 ---
 
 ## Arquitetura das soluções
 
-Nossa abordagem conecta diferentes camadas da operação:
+A abordagem da PS Qualidade conecta diferentes camadas da operação:
 
 **Sistemas e Processos**  
 ↓  
@@ -99,7 +97,17 @@ Nossa abordagem conecta diferentes camadas da operação:
 
 ## Tecnologias
 
-`Power BI` · `DAX` · `Power Query` · `Power Apps` · `Power Automate` · `Azure DevOps` · `ALM` · `SAP` · `SharePoint` · `Microsoft 365` · `Office Scripts`
+### Dados e BI
+`Power BI` · `DAX` · `Power Query` · `Data Modeling` · `Data Visualization`
+
+### Automação e Aplicações
+`Power Apps` · `Power Automate` · `Office Scripts` · `SharePoint` · `Microsoft 365`
+
+### Gestão e ALM
+`Azure DevOps` · `Boards` · `Test Plans` · `ALM`
+
+### Sistemas e Integrações
+`SAP` · `SAP PM` · `S/4HANA` · `APIs` · `Integrações`
 
 ---
 
@@ -111,11 +119,11 @@ A proposta é atuar como ponte entre **negócio e tecnologia**, entendendo o pro
 
 ---
 
-## Portfólio
+## Portfólio e contato
 
-🌐 https://psqualidade.com.br
+🌐 [psqualidade.com.br](https://psqualidade.com.br)
 
-💼 LinkedIn: https://www.linkedin.com/in/skrochcaio/
+💼 [LinkedIn](https://www.linkedin.com/in/skrochcaio/)
 
 📧 caio.skroch@psqualidade.onmicrosoft.com.br
 
